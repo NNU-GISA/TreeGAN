@@ -17,14 +17,14 @@ ___
 
 ## [Results]
 - Multi Class Generation.  
-![Multi-class](#URL "Motorbike, Laptop, Sofa, Guitar, Skateboard, Knife, Table, Pistol, and Car from top-left to bottom-right")
+![Multi-class](https://github.com/seowok/TreeGAN/blob/master/results/fig_teaser.PNG "Motorbike, Laptop, Sofa, Guitar, Skateboard, Knife, Table, Pistol, and Car from top-left to bottom-right")
 
 - Single Class Generation.  
-![Single-class](#URL "Plane and Chair")  
+![Single-class](https://github.com/seowok/TreeGAN/blob/master/results/fig_results.PNG "Plane and Chair")  
 
 - Single Class Interpolation.  
-![Single-class Interpolation](#URL "Plane")  
-![Single-class Interpolation](#URL "Chair")
+![Plane-class Interpolation](https://github.com/seowok/TreeGAN/blob/master/results/plane_interpolation.gif)  
+![Chair-class Interpolation](https://github.com/seowok/TreeGAN/blob/master/results/chair_interpolation.gif)
 ___
 
 ## [Frechet Pointcloud Distance]
